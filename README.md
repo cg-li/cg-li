@@ -27,7 +27,3 @@ I focus on clear, correct implementations and reproducible reasoning.
 
 ## Contact
 - GitHub: https://github.com/cg-li
-
-
-## Acknowledgments
-Thanks to my family and friends.
