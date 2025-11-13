@@ -2,6 +2,7 @@
 
 Mathematician transitioning to algorithm engineering and data systems.  
 I focus on clear, correct implementations and reproducible reasoning.
+- This homepage is currently a work in progress.
 
 ## Skills
 - Languages: Python, SQL, Java  
