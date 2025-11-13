@@ -16,7 +16,7 @@ I focus on clear, correct implementations and reproducible reasoning.
 
 ## Academic Background
 Completed all doctoral research requirements in structural graph theory and high dimensional statistics. Conducted and led original mathematical research on complex graph structures, identifying a limitation in a prior approach and proposing an alternative insight that addressed a key computational bottleneck in the (2,3)-linkage problem. Special thanks to Fudan University math department.  
-After careful consideration of long-term career direction, I made a strategic decision to leave academia and transition toward algorithm engineering and data systems. Special thanks to Fudan University math department.
+After careful consideration of long-term career direction, I made a strategic decision to leave academia and transition toward algorithm engineering and data systems.
 
 ## Current Focus
 - Refining SQL solutions with commentary and difficulty tags  
