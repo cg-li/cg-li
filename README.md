@@ -16,7 +16,7 @@ I focus on clear, correct implementations and reproducible reasoning.
 
 ## Academic Background
 - Conducted and led original mathematical research on complex graph structures, identifying a limitation in a prior approach and proposing an alternative insight that addressed a key computational bottleneck in the (2,3)-linkage problem. Special thanks to Fudan University math department.  
-- Conducted original research on high dimensional statistics, focusing on oracle inequalities of sparsity structure and the selection of the penalty term.
+- Conducted original mathematical research on high dimensional statistics, focusing on oracle inequalities of sparsity structure and the selection of the penalty term.
 - After careful consideration of long-term career direction, I made a strategic decision to leave academia and transition toward algorithm engineering and data systems.
 
 
