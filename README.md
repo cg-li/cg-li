@@ -18,7 +18,7 @@ I focus on clear, correct implementations and reproducible reasoning.
 ## Academic Background
 - Conducted and led original mathematical research on complex graph structures, identifying a limitation in a prior approach and proposing an alternative insight that addressed a key computational bottleneck in the (2,3)-linkage problem.
 - Conducted original mathematical research on high dimensional statistics, focusing on oracle inequalities of sparsity structure and the study of the penalty term.
-- After reassessing my long-term goals, I made a strategic decision to move from academia into the technology industry.
+- After reassessing my long-term goals, I made a decision to move from academia into the technology industry.
 
 
 ## Current Focus
