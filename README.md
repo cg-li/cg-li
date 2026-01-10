@@ -1,6 +1,6 @@
 # cg-li
 
-Mathematician transitioning to algorithm engineering and data systems.  
+Mathematician with strong background in statistics transitioning to algorithm engineering and data systems.  
 I focus on clear, correct implementations and reproducible reasoning.
 - This homepage is currently a work in progress.
 
