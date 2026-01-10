@@ -5,9 +5,9 @@ I focus on clear, correct implementations and reproducible reasoning.
 - This homepage is currently a work in progress.
 
 ## Skills
-- Languages: Python, SQL, Java  
-- Areas: Algorithms & Data Structures, Graph Theory, Query Design (joins, windows, CTEs)  
-- Tooling: Git/GitHub, JDK 17+, PostgreSQL/MySQL  
+- Languages: Python
+- Areas: Algorithms, Graph Theory, High Dimensional Statistics
+- Tooling: Git/GitHub
 
 ## Highlight Repositories
 - **algorithms** — Java implementations from coursework and LeetCode, with complexity notes and runnable instructions.  
